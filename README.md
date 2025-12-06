@@ -48,7 +48,7 @@ Engineering leader passionate about clean architecture, performance, and buildin
 
 ## 🔗 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nisarg%20Patel-83F5C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisargbpatel/) [![GitHub](https://img.shields.io/badge/GitHub-nisargpatel28-black?style=for-the-badge&logo=github)](https://github.com/nisargpatel28) [![X](https://img.shields.io/badge/X-@PatelNisarg28-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatelNisarg28) [![Telegram](https://img.shields.io/badge/Telegram-PatelNisarg28-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PatelNisarg28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nisarg%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisargbpatel/) [![GitHub](https://img.shields.io/badge/GitHub-nisargpatel28-black?style=for-the-badge&logo=github)](https://github.com/nisargpatel28) [![X](https://img.shields.io/badge/X-@PatelNisarg28-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatelNisarg28) [![Telegram](https://img.shields.io/badge/Telegram-PatelNisarg28-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PatelNisarg28)
 
 
 # My NFT
