@@ -43,7 +43,7 @@ Engineering leader passionate about clean architecture, performance, and buildin
 
 ## 🔗 Connect with me  
 
-[![Website](https://img.shields.io/badge/Website-patelnisarg.com-83F5C2?style=for-the-badge)](https://patelnisarg.com)  
+[![LinkedIn](https://img.shields.io/badge/Website-patelnisarg.com-83F5C2?style=for-the-badge)](https://www.linkedin.com/in/nisargbpatel/)  
 [![GitHub](https://img.shields.io/badge/GitHub-nisargpatel28-black?style=for-the-badge&logo=github)](https://github.com/nisargpatel28)  
 
 ---
