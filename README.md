@@ -13,10 +13,10 @@ Engineering leader passionate about clean architecture, performance, and buildin
 
 | **Category**                          | **Description**                                                                                           |
 |---------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **AI / ML Projects**                  | 🤖 LLM-powered tools and data-driven workflows (e.g. `llm-sql-assistant`, `QLoRA-LLMs`, `LangGraph`)         |
-| **Blockchain & Crypto**               | 🔐 Secure, self-custody wallets and crypto-payment infrastructure (`crypto-wallet`).                       |
-| **Full-stack Web & APIs**             | 🌐 Python, REST APIs with Node.js/Express, React apps, Django-based web solutions, backend & frontend integrations. |
-| **Data Science & High-Performance Computing** | 🧪 GPU-powered data pipelines, ML & graph-processing using RAPIDS libraries (`cuDF`, `cuML`, `cuGraph`).    |
+| **AI / ML Projects**                  | LLM-powered tools and data-driven workflows (e.g. `llm-sql-assistant`, `QLoRA-LLMs`, `LangGraph`)         |
+| **Blockchain & Crypto**               | Secure, self-custody wallets and crypto-payment infrastructure (`crypto-wallet`).                       |
+| **Full-stack Web & APIs**             | Python, REST APIs with Node.js/Express, React apps, Django-based web solutions, backend & frontend integrations. |
+| **Data Science & High-Performance Computing** | GPU-powered data pipelines, ML & graph-processing using RAPIDS libraries (`cuDF`, `cuML`, `cuGraph`).    |
 
 ---
 
@@ -37,18 +37,18 @@ Engineering leader passionate about clean architecture, performance, and buildin
 
 | **Category**             | **Skills & Technologies**                                                                 |
 |--------------------------|------------------------------------------------------------------------------------------|
-| **Languages & Frameworks**| Python, JavaScript/TypeScript, Node.js, React, Django, Solidity 📜                      |
-| **AI / ML / Data**        | LLMs, QLoRA, data pipelines, GPU-based ML, data engineering 🧠                           |
-| **Blockchain / Crypto**   | Wallet development, self-custody, smart-contract basics, crypto payments 🔐              |
-| **DevOps & Cloud**        | Docker, CI/CD, scalable architecture, clean-code principles ☁️                           |
-| **Other**                 | REST APIs, frontend apps, database systems, system design 📈                            |
+| **Languages & Frameworks**| Python, JavaScript/TypeScript, Node.js, React, Django, Solidity                         |
+| **AI / ML / Data**        | LLMs, QLoRA, data pipelines, GPU-based ML, data engineering                            |
+| **Blockchain / Crypto**   | Wallet development, self-custody, smart-contract basics, crypto payments               |
+| **DevOps & Cloud**        | Docker, CI/CD, scalable architecture, clean-code principles                            |
+| **Other**                 | REST APIs, frontend apps, database systems, system design                             |
  
 
 ---
 
 ## 🔗 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nisarg%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisargbpatel/) [![GitHub](https://img.shields.io/badge/GitHub-nisargpatel28-black?style=for-the-badge&logo=github)](https://github.com/nisargpatel28) [![X](https://img.shields.io/badge/X-@PatelNisarg28-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatelNisarg28) [![Telegram](https://img.shields.io/badge/Telegram-PatelNisarg28-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PatelNisarg28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisargbpatel/) [![GitHub](https://img.shields.io/badge/GitHub-nisargpatel28-black?style=for-the-badge&logo=github)](https://github.com/nisargpatel28) [![X](https://img.shields.io/badge/X-@PatelNisarg28-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatelNisarg28) [![Telegram](https://img.shields.io/badge/Telegram-PatelNisarg28-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PatelNisarg28)
 
 
 # My NFT
