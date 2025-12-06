@@ -13,7 +13,7 @@ Engineering leader passionate about clean architecture, performance, and buildin
 
 - 🤖 **AI / ML Projects** — LLM-powered tools and data-driven workflows (e.g. `llm-sql-assistant`, `QLoRA-LLMs`, `LangGraph`)  
 - 🔐 **Blockchain & Crypto** — Secure, self-custody wallets and crypto-payment infrastructure (`crypto-wallet`).  
-- 🌐 **Full-stack Web & APIs** — REST APIs with Node.js/Express, React apps, Django-based web solutions, backend & frontend integrations.  
+- 🌐 **Full-stack Web & APIs** — Python, REST APIs with Node.js/Express, React apps, Django-based web solutions, backend & frontend integrations.  
 - 🧪 **Data Science & High-Performance Computing** — GPU-powered data pipelines, ML & graph-processing using RAPIDS libraries (`cuDF`, `cuML`, `cuGraph`).  
 
 ---
@@ -43,7 +43,7 @@ Engineering leader passionate about clean architecture, performance, and buildin
 
 ## 🔗 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/Website-patelnisarg.com-83F5C2?style=for-the-badge)](https://www.linkedin.com/in/nisargbpatel/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nisarg%20Patel-83F5C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisargbpatel/)
 [![GitHub](https://img.shields.io/badge/GitHub-nisargpatel28-black?style=for-the-badge&logo=github)](https://github.com/nisargpatel28)  
 
 ---
