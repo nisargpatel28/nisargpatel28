@@ -1,6 +1,6 @@
 <!-- Hero / Banner (replace with your own banner if you like) -->
 <div align="center">
-  <img src="assests/banner.png" alt="Nisarg Patel - AI & Blockchain Engineer" width="100%" />
+  <img src="assets/banner.png" alt="Nisarg Patel - AI & Blockchain Engineer" width="100%" />
 </div>
 
 # Hi from **Nisarg Patel** 
