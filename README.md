@@ -1,9 +1,9 @@
 <!-- Hero / Banner (replace with your own banner if you like) -->
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300/F8E485/000000?text=Nisarg+Patel+-+AI+%26+Blockchain+Engineer" alt="Banner" style="max-width:100%;"/>
+  <img src="https://i.imgur.com/9X0zPTy.png" alt="Nisarg Patel - AI & Blockchain Engineer" width="100%" />
 </div>
 
-# Hi — I’m **Nisarg Patel** 👋  
+# Hi from **Nisarg Patel** 
 
 Engineering leader passionate about clean architecture, performance, and building scalable systems that solve real problems through code and collaboration.  
 
