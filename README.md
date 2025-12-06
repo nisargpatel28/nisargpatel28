@@ -46,6 +46,12 @@ Engineering leader passionate about clean architecture, performance, and buildin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nisarg%20Patel-83F5C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisargbpatel/)
 [![GitHub](https://img.shields.io/badge/GitHub-nisargpatel28-black?style=for-the-badge&logo=github)](https://github.com/nisargpatel28)  
 
+# My NFT
+
+Check out my cool NFT below!
+
+[![NFT Badge](https://img.shields.io/badge/NFT-Available-brightgreen)](https://opensea.io/assets/ethereum/0x8e21ead95de5d5f765cf6d1444b9e773cbf52b6a/664)
+
 ---
 
 > 💡 *“Combining the power of AI, blockchain and scalable engineering to build the future of secure & intelligent systems.”*
